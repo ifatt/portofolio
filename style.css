@@ -26,7 +26,7 @@ nav a{
 	margin:0 5% 0 5%;
 }
 nav a:hover{
-	color:#43A047;
+	color:#c6edff;
 }
 main section{
 	margin:20px 10% 20px 10%;
@@ -55,7 +55,7 @@ main{
 main button {
 	text-align:center;
 	border-radius:5px;
-	border-color:#03A9F4;
+	border-color:#8ec4dd;
 	cursor:pointer;
 	box-shadow:none;
 	width:auto;
@@ -65,7 +65,7 @@ main button {
 }
 main a,main a:hover,main a:active,main a:focus,main a:visited{
 	text-decoration:none;
-	color:#03A9F4;
+	color:#81a5b6;
 }
 main section div a:hover{
 	border-radius:10px;
